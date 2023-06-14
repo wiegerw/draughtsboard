@@ -1,0 +1,2 @@
+# draughtsboard
+Javascript draughts board
